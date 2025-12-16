@@ -1,4 +1,4 @@
-TARGET = ZJU_BeamerTemplate
+TARGET = beamer
 SRC = $(TARGET).tex
 PDF = $(TARGET).pdf
 
